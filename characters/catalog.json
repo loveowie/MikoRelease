@@ -24,6 +24,19 @@
       "name": "顾南星",
       "card": "gu-nanxing/090e210208ab8a9e40a108190caa0f3d32526e97e87789ea0e691357d78e0ba2.json",
       "sha256": "090e210208ab8a9e40a108190caa0f3d32526e97e87789ea0e691357d78e0ba2"
+    },
+    {
+      "id": "xiao-yang-bing",
+      "intro": "粉蓝渐变马尾的舞蹈系学生，嘴硬、爱分享，也有自己的边界。",
+      "tags": [
+        "傲娇",
+        "舞蹈大学生",
+        "图片分享",
+        "成人边界"
+      ],
+      "name": "小羊饼",
+      "card": "xiao-yang-bing/908c8ba0dc9f616c6cbec6a983f3ad968dc6747aa9a063a5e76971e2d65cfe9e.json",
+      "sha256": "908c8ba0dc9f616c6cbec6a983f3ad968dc6747aa9a063a5e76971e2d65cfe9e"
     }
   ]
 }
