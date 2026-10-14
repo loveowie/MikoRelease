@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "apkUrl": "https://gitee.com/Faylinn/miko-release/releases/download/v1.2.2/miko-1.2.2-20261014-release.apk",
-  "sha256": "c58396060be4761a9ebbcfb76f0ac47fad6cf8e3a0173a620c044def9aaf08de",
-  "releaseNotes": "新增自然主动联系与生活动态决策，简化记忆管理，完善朋友圈互动与聊天连续性，并修复 Gitee 更新包多次跳转下载。"
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "apkUrl": "https://gitee.com/Faylinn/miko-release/releases/download/v1.2.3/miko-1.2.3-20261014-f058ca7-release.apk",
+  "sha256": "6099b73c5119ed1e98f1d85fef5e1ee75a854eb6cb573057b0fd062ec86de5c2",
+  "releaseNotes": "新增设置首页应用更新入口，保留启动自动检查；支持手动检查并显示最新版本或下载新版本。"
 }
