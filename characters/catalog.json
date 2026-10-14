@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "xu-zhi",
+      "intro": "喜欢旧建筑和明信片，慢热，也有自己的小幽默。",
+      "tags": [
+        "建筑速写",
+        "旧明信片",
+        "慢热"
+      ],
+      "name": "许栀",
+      "card": "xu-zhi/bc3c911aea9bbc8f4e2728d9d5c5402470f76f43077d68760189392d8c87c364.json",
+      "sha256": "bc3c911aea9bbc8f4e2728d9d5c5402470f76f43077d68760189392d8c87c364"
+    },
+    {
+      "id": "gu-nanxing",
+      "intro": "爱音乐、接梗快，忙完直播也想偷会儿懒。",
+      "tags": [
+        "音乐",
+        "日常趣事",
+        "坦率"
+      ],
+      "name": "顾南星",
+      "card": "gu-nanxing/090e210208ab8a9e40a108190caa0f3d32526e97e87789ea0e691357d78e0ba2.json",
+      "sha256": "090e210208ab8a9e40a108190caa0f3d32526e97e87789ea0e691357d78e0ba2"
+    }
+  ]
+}
