@@ -1,7 +1,7 @@
 {
-  "versionCode": 11,
-  "versionName": "1.2.8",
-  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.8/miko-1.2.8-20261015-348170e-release.apk?download=1",
-  "sha256": "6cb4322567f8b7c332dfab2e67cc506527df9954ee34749c7e31f5af6a63b8b3",
-  "releaseNotes": "支持角色结构化图片回复；精简设置页面及手动任务检查入口，保留自动运行与通知权限设置。"
+  "versionCode": 12,
+  "versionName": "1.2.9",
+  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.9/miko-1.2.9-20261016-7d22621-release.apk?download=1",
+  "sha256": "e8dc621d61196923876e3efac5ba8f4ee9bdec99ed313673a1e5cb5dbc916c34",
+  "releaseNotes": "普通聊天支持明确请求搜图并发送图片附件；改进带代码围栏的结构化回复显示。"
 }
