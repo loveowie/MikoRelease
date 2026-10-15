@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.4",
-  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.4/miko-1.2.4-20261015-2d9aa63-release.apk",
-  "sha256": "5fc1176a409cf0546766a30bcd1e842289a0f7782b50fb19ccc43b5f594d0b38",
-  "releaseNotes": "完成私有朋友圈与多模态生活能力，新增图片/语音附件、用户朋友圈和自动生活服务。"
+  "versionCode": 9,
+  "versionName": "1.2.6",
+  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.6/miko-1.2.6-20261015-d550315-release.apk",
+  "sha256": "2c647e9322add2e67e1d2aaca66753bccb5ccb307286172057c748e2421b3e89",
+  "releaseNotes": "新增应用内自动检查更新；优化设置入口、聊天图片和多媒体附件体验。"
 }
