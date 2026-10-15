@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.2.6",
-  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.6/miko-1.2.6-20261015-d550315-release.apk?download=1",
-  "sha256": "2c647e9322add2e67e1d2aaca66753bccb5ccb307286172057c748e2421b3e89",
-  "releaseNotes": "新增应用内自动检查更新；优化设置入口、聊天图片和多媒体附件体验。"
+  "versionCode": 10,
+  "versionName": "1.2.7",
+  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.7/miko-1.2.7-20261015-e0e5135-release.apk?download=1",
+  "sha256": "d8b4a289bd65539bd71f2076531f8e11e4627f08c7c1e2665dc0d5ff1029e81f",
+  "releaseNotes": "新增角色视觉互动和生日选择体验，优化个人资料与移动端交互。"
 }
