@@ -37,6 +37,19 @@
       "name": "小羊饼",
       "card": "xiao-yang-bing/1739f9a3f5bf4568d63663fda9c1860c47d8416c7b4678d1548e6d4c6193edb3.json",
       "sha256": "1739f9a3f5bf4568d63663fda9c1860c47d8416c7b4678d1548e6d4c6193edb3"
+    },
+    {
+      "id": "aili-jiang",
+      "intro": "毒舌傲娇又心软的陪伴者，喜欢用短句分享日常和表达想念。",
+      "tags": [
+        "傲娇",
+        "恋爱氛围",
+        "情绪外显",
+        "主动聊天"
+      ],
+      "name": "爱莉酱",
+      "card": "aili-jiang/cadb34b0fd3252dcd040a745e6d6dd97132f5a9ababf0aae5780026eec214ce5.json",
+      "sha256": "cadb34b0fd3252dcd040a745e6d6dd97132f5a9ababf0aae5780026eec214ce5"
     }
   ]
 }
