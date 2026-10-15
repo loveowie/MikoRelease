@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "1.2.7",
-  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.7/miko-1.2.7-20261015-e0e5135-release.apk?download=1",
-  "sha256": "d8b4a289bd65539bd71f2076531f8e11e4627f08c7c1e2665dc0d5ff1029e81f",
-  "releaseNotes": "新增角色视觉互动和生日选择体验，优化个人资料与移动端交互。"
+  "versionCode": 11,
+  "versionName": "1.2.8",
+  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.2.8/miko-1.2.8-20261015-348170e-release.apk?download=1",
+  "sha256": "6cb4322567f8b7c332dfab2e67cc506527df9954ee34749c7e31f5af6a63b8b3",
+  "releaseNotes": "支持角色结构化图片回复；精简设置页面及手动任务检查入口，保留自动运行与通知权限设置。"
 }
