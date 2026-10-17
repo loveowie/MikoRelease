@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.3.0",
-  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.3.0/miko-1.3.0-20261017-5f41de8-release.apk?download=1",
-  "sha256": "7aa99392cf543f76f9aee343b595b94316a61524dc5a48db1ded2b43d7670186",
-  "releaseNotes": "自动关系进阶与阶段化表达上线；关系事件由有效相处来源自动形成，移除关系审核和数值化控制。"
+  "versionCode": 14,
+  "versionName": "1.3.1",
+  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.3.1/miko-1.3.1-20261017-9dda254-release.apk?download=1",
+  "sha256": "b12c73774567652d59bfec32cec8602d28190594017dc06b69a12d9f4894d787",
+  "releaseNotes": "主动联系记录新增评估时间；补齐 Android 后台时间记录和接口时区，旧记录缺失时间时明确提示。"
 }
