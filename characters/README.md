@@ -15,7 +15,7 @@ App 的「认识新朋友」读取 [catalog.json](catalog.json)。这是独立�
 在源码仓库更新 `docs/product-design/role-cards/catalog.json` 和对应的 `*-chara-card-v3.json` 后执行：
 
 ```sh
-uv run python scripts/publish-friend-catalog.py --output /path/to/miko-release
+uv run python scripts/publish-friend-catalog.py --output /path/to/MikoRelease
 ```
 
 审核发布仓库的 `characters/` 差异后提交并推送 `main`。该工具只准备角色目录，不上传 APK、不修改 `update.json`。未来可直接在本仓库管理作者卡，但仍需重新计算摘要并更新清单。

@@ -1,28 +1,15 @@
-# Miko 发布仓库
+# Miko Android 发布与下载
 
-这个仓库只存放 Miko Android 的公开更新资源，不包含应用源码、签名文件或模型密钥。
+[下载最新版](https://github.com/loveowie/MikoRelease/releases/latest) · [所有版本](https://github.com/loveowie/MikoRelease/releases) · [源码仓库](https://github.com/loveowie/Miko)
 
-## 当前版本
+本仓库提供 Android 安装包、应用更新清单和精选角色目录。APK 在 GitHub Releases 中下载，版本、SHA-256 与更新说明以 [update.json](https://raw.githubusercontent.com/loveowie/MikoRelease/main/update.json) 为准。
 
-- 版本：`1.2.2`
-- `versionCode`：`5`
-- Release：[v1.2.2](https://gitee.com/Faylinn/miko-release/releases/tag/v1.2.2)
-- APK：[miko-1.2.2-20261014-release.apk](https://gitee.com/Faylinn/miko-release/releases/download/v1.2.2/miko-1.2.2-20261014-release.apk)
+迁移前安装的 App 需要手动下载并覆盖安装 **1.3.3 或更新版本**，之后启动和设置中的“检查更新”均使用本仓库。使用相同签名覆盖安装可保留聊天、角色和模型配置；不要卸载原应用。
 
-Miko 启动时会读取本仓库的 [`update.json`](./update.json)。发现更高版本时只提示用户，不会强制更新。用户确认后，应用下载 APK、校验 SHA-256，再交给 Android 系统安装。覆盖安装会保留聊天记录、角色数据和模型连接；APK 必须使用与已安装版本相同的 Release 签名。
+应用只提示可用更新，不强制更新。用户确认后下载 APK、校验 SHA-256，再交给 Android 系统确认安装。
 
-## 本版更新
+## 发布
 
-- 自然主动联系与生活动态决策，允许角色选择安静。
-- 简化记忆管理，完善朋友圈互动与聊天连续性。
-- 修复 Gitee 更新包多次跳转下载。
+在 [源码仓库](https://github.com/loveowie/Miko) 使用 `scripts/publish-android-release.sh --publish`，需要 GitHub CLI 登录与原 Release 签名。脚本递增版本、构建 APK，先创建 Release 并上传附件，再更新本仓库 `main` 的清单。新 APK 不写入 Git。
 
-## 发布新版本
-
-1. 在主仓库递增 Android `versionCode` 和 `versionName`，用同一 Release 签名构建 APK。
-2. 计算 APK 的 SHA-256。
-3. 在本仓库创建同名 Gitee Release 并上传 APK。
-4. 更新 `update.json` 的 `versionCode`、`versionName`、`apkUrl`、`sha256` 和 `releaseNotes`，提交到 `main`。
-5. 用手机打开应用，启动时会自动检查；也可以在“关于 Miko”中手动检查。
-
-`update.json` 和 Release 附件保持公开，主项目可以继续保持私有。
+精选角色可以独立发布，流程见 [characters/README.md](characters/README.md)。公开文件不包含用户聊天、联系人、签名密钥或模型凭据。

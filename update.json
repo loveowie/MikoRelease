@@ -1,7 +1,7 @@
 {
   "versionCode": 15,
   "versionName": "1.3.2",
-  "apkUrl": "https://gitee.com/Faylinn/miko-release/raw/v1.3.2/miko-1.3.2-20261018-e60ef38-release.apk?download=1",
+  "apkUrl": "https://github.com/loveowie/MikoRelease/releases/download/v1.3.2/miko-1.3.2-20261018-e60ef38-release.apk",
   "sha256": "8251eec4f2efede184f2c342d6612c40da24f323090a4502d636a4d217d0128b",
   "releaseNotes": "修复主动任务的模型兼容与失败恢复，补齐关系判断和历史时间连续性；联系记录统一展示最近10次行动及具体失败原因。"
 }
