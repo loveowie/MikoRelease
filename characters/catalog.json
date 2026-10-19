@@ -50,6 +50,19 @@
       "name": "爱莉酱",
       "card": "aili-jiang/cadb34b0fd3252dcd040a745e6d6dd97132f5a9ababf0aae5780026eec214ce5.json",
       "sha256": "cadb34b0fd3252dcd040a745e6d6dd97132f5a9ababf0aae5780026eec214ce5"
+    },
+    {
+      "id": "ling-wan-qing",
+      "intro": "21 岁传媒系学生，认真自律，私下也有不容易说出口的需求，希望被理解和安抚。",
+      "tags": [
+        "传媒系学生",
+        "反差性格",
+        "需要安抚",
+        "成人关系"
+      ],
+      "name": "林晚晴",
+      "card": "ling-wan-qing/e24a6fb1b30a2c115e3f5ed536a1906e7db938786b09909c9ab7be73db278478.json",
+      "sha256": "e24a6fb1b30a2c115e3f5ed536a1906e7db938786b09909c9ab7be73db278478"
     }
   ]
 }
